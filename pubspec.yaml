@@ -1,4 +1,4 @@
-name: EduShare
+name: edu_share
 description: "A Social Media Application for Education & Educational Content"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
